@@ -2,21 +2,7 @@
 
 (SAS) Smart Obstacle Navigator & Sound Activated Mopper
 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/SimonAnastasov/SAS-SmartObstacleNavigator-SoundActivatedMopper/assets/86790702/5ec8ea3c-1791-4684-be20-1ea4ce078d07)
 
 Опис на потребни делови за изработка на роботот.
 
@@ -102,7 +88,3 @@ Oпис на намената на роботот, слаби и јаки стр
 4.	Да има RGB диода која во различни бои ќе сигнализира статус на работа на роботот. (пр. црвена – пауза, зелена – работи).
 5.	Да има дисплеј во кој ќе ги испишува своите статуси на работа.
 6.	Да има детектор за вода.
-
-
-![image](https://github.com/SimonAnastasov/SAS-SmartObstacleNavigator-SoundActivatedMopper/assets/86790702/5ec8ea3c-1791-4684-be20-1ea4ce078d07)
-
